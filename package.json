@@ -1,0 +1,22 @@
+{
+  "name": "retro-to-mongo",
+  "version": "1.0.0",
+  "description": "to get retro games information and save mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyksit/retro-to-mongo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyksit/retro-to-mongo/issues"
+  },
+  "homepage": "https://github.com/skyksit/retro-to-mongo#readme",
+  "devDependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
