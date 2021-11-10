@@ -4,7 +4,7 @@
   "description": "to get retro games information and save mongodb",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
